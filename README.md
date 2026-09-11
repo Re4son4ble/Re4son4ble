@@ -49,60 +49,46 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>01. OCTO DEAUTHER</h4>
-      <p>
-        Centralized C2 platform for managing multiple ESP8266-based wireless
-        testing devices, with remote command and device control.
-      </p>
-      <p>
-        <code>Java</code>
-        <code>C</code>
-        <code>ESP8266</code>
-        <code>IoT</code>
-      </p>
-    </td>
 
-    <td width="50%" valign="top">
-      <h4>02. RASPBERRY PI VISION ROBOT</h4>
-      <p>
-        Computer-vision robot that uses a camera and OpenCV to detect objects,
-        track targets, and control movement in real time.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>OpenCV</code>
-        <code>Raspberry Pi</code>
-      </p>
-    </td>
+<h4>01. OCTO DEAUTHER</h4>
+
+Centralized C2 platform for managing multiple ESP8266-based wireless testing devices, with remote command and device control.
+
+`Java` `C` `ESP8266` `IoT`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4>02. RASPBERRY PI VISION ROBOT</h4>
+
+Computer-vision robot that uses a camera and OpenCV to detect objects, track targets, and control movement in real time.
+
+`Python` `OpenCV` `Raspberry Pi`
+
+</td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h4>03. ISP SECURITY RESEARCH</h4>
-      <p>
-        Security research focused on identifying and documenting weaknesses
-        in network infrastructure and web-facing services for responsible
-        disclosure.
-      </p>
-      <p>
-        <code>Burp Suite</code>
-        <code>Networking</code>
-        <code>Security Research</code>
-      </p>
-    </td>
 
-    <td width="50%" valign="top">
-      <h4>04. N8N AUTOMATION ENGINE</h4>
-      <p>
-        Self-hosted automation system connecting hardware, APIs, webhooks,
-        and databases to build automated data-processing workflows.
-      </p>
-      <p>
-        <code>n8n</code>
-        <code>Docker</code>
-        <code>REST API</code>
-      </p>
-    </td>
+<h4>03. ISP SECURITY RESEARCH</h4>
+
+Security research focused on identifying and documenting weaknesses in network infrastructure and web-facing services for responsible disclosure.
+
+`Burp Suite` `Networking` `Security Research`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h4>04. N8N AUTOMATION ENGINE</h4>
+
+Self-hosted automation system connecting hardware, APIs, webhooks, and databases to build automated data-processing workflows.
+
+`n8n` `Docker` `REST API`
+
+</td>
   </tr>
 </table>
 
