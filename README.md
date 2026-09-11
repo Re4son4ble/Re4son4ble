@@ -52,21 +52,35 @@
   <tr>
     <td width="50%" valign="top">
 
-### 01. OCTO DEAUTHER
+<h3>01. OCTO DEAUTHER</h3>
 
-A centralized command-and-control platform for managing multiple ESP8266-based wireless testing nodes. Designed around distributed device control, remote commands, and communication between embedded devices and a central server.
+<p>
+Centralized command-and-control platform for managing multiple ESP8266-based wireless testing nodes. Designed around distributed device control, remote commands, and communication between embedded devices and a central server.
+</p>
 
-`Java` `C` `ESP8266` `IoT` `Networking`
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=internetofthings&logoColor=white" />
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 02. RASPBERRY PI VISION ROBOT
+<h3>02. RASPBERRY PI VISION ROBOT</h3>
 
-A camera-driven robotics platform using OpenCV for real-time object detection and tracking. The system processes visual input and translates detected targets into movement commands.
+<p>
+Camera-driven robotics platform using OpenCV for real-time object detection and tracking. The system processes visual input and translates detected targets into movement commands.
+</p>
 
-`Python` `OpenCV` `Raspberry Pi` `Computer Vision`
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-00B4D8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
 </td>
   </tr>
@@ -74,21 +88,35 @@ A camera-driven robotics platform using OpenCV for real-time object detection an
   <tr>
     <td width="50%" valign="top">
 
-### 03. ISP SECURITY RESEARCH
+<h3>03. ISP SECURITY RESEARCH</h3>
 
+<p>
 Security research focused on analyzing network infrastructure, exposed services, and web applications for potential weaknesses. Findings are documented for security awareness and responsible disclosure.
+</p>
 
-`Burp Suite` `Networking` `Web Security` `Security Research`
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Research-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 04. N8N AUTOMATION ENGINE
+<h3>04. N8N AUTOMATION ENGINE</h3>
 
-A self-hosted automation environment connecting APIs, hardware devices, webhooks, and databases. Built to automate event-driven workflows and move data between physical systems and web services.
+<p>
+Self-hosted automation environment connecting APIs, hardware devices, webhooks, and databases. Built to automate event-driven workflows and move data between physical systems and web services.
+</p>
 
-`n8n` `Docker` `REST API` `Webhooks` `Automation`
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-00B4D8?style=for-the-badge&logo=webhooks&logoColor=white" />
+</p>
 
 </td>
   </tr>
