@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cajx-it">
+  <a href="https://github.com/Re4son4ble">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Indie+Developer+%26+Tinkerer;IoT+%26+Automation+Enthusiast;Red+Teaming+%26+Security+Research;Full+Stack+Development" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/cajx-it?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/cajx-it?color=55960c&style=for-the-badge&labelColor=488207&logo=reverbnation&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/Re4son4ble?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Re4son4ble?color=55960c&style=for-the-badge&labelColor=488207&logo=reverbnation&label=Total%20Stars" />
 </p>
 
 ---
