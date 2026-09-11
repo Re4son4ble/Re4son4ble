@@ -48,9 +48,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>OCTO DEAUTHER</h4>
+      <h4>📟 OCTO DEAUTHER</h4>
       <p>An offensive security tool that controls esp8266 deauther bots in one single C2 server.</p>
-      <code>Java</code> <code>C</code> <code>GUI</code>
+      <code>Java</code> <code>C</code> <code>IOT</code>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 Raspberry Pi Car Robot</h4>
