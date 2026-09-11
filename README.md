@@ -43,36 +43,69 @@
 
 ---
 
-### Featured Projects
+
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4> OCTO DEAUTHER</h4>
-      <p>An offensive security tool that controls esp8266 deauther bots in one single C2 server.</p>
-      <code>Java</code> <code>C</code> <code>IOT</code>
+      <h4>01. OCTO DEAUTHER</h4>
+      <p>
+        Centralized C2 platform for managing multiple ESP8266-based wireless
+        testing devices, with remote command and device control.
+      </p>
+      <p>
+        <code>Java</code>
+        <code>C</code>
+        <code>ESP8266</code>
+        <code>IoT</code>
+      </p>
     </td>
+
     <td width="50%" valign="top">
-      <h4> Raspberry Pi Car Robot</h4>
-      <p>Camera-based robot powered by OpenCV for object tracking and movement automation.</p>
-      <code>Python</code> <code>OpenCV</code> <code>IoT</code>
+      <h4>02. RASPBERRY PI VISION ROBOT</h4>
+      <p>
+        Computer-vision robot that uses a camera and OpenCV to detect objects,
+        track targets, and control movement in real time.
+      </p>
+      <p>
+        <code>Python</code>
+        <code>OpenCV</code>
+        <code>Raspberry Pi</code>
+      </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h4> ISP Security Research</h4>
-      <p>Documenting vulnerabilities within local network infrastructures (PLDT) to raise cybersecurity awareness.</p>
-      <code>Burp Suite</code> <code>Networking</code>
+      <h4>03. ISP SECURITY RESEARCH</h4>
+      <p>
+        Security research focused on identifying and documenting weaknesses
+        in network infrastructure and web-facing services for responsible
+        disclosure.
+      </p>
+      <p>
+        <code>Burp Suite</code>
+        <code>Networking</code>
+        <code>Security Research</code>
+      </p>
     </td>
+
     <td width="50%" valign="top">
-      <h4> n8n Automation Engine</h4>
-      <p>Custom workflows connecting hardware sensors to webhooks and databases.</p>
-      <code>n8n</code> <code>Docker</code> <code>API</code>
+      <h4>04. N8N AUTOMATION ENGINE</h4>
+      <p>
+        Self-hosted automation system connecting hardware, APIs, webhooks,
+        and databases to build automated data-processing workflows.
+      </p>
+      <p>
+        <code>n8n</code>
+        <code>Docker</code>
+        <code>REST API</code>
+      </p>
     </td>
   </tr>
 </table>
 
----
 
 ###  GitHub Ecosystem
 
