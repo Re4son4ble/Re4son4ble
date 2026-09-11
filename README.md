@@ -15,7 +15,7 @@
 
 ---
 
-### 🛡️ Cybersecurity & Red Teaming
+### Cybersecurity & Red Teaming
 <p align="left">
 <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
 <img src="https://img.shields.io/badge/Hashcat-7289DA?style=for-the-badge&logo=linux-foundation&logoColor=white" />
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Red_Teaming-D32F2F?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
-### 💻 Development Stack
+### Development Stack
 | **Backend & Logic** | **Frontend & Web** | **DevOps & Automation** |
 | :--- | :--- | :--- |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) | ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) |
@@ -34,7 +34,7 @@
 | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) |
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
-### 📟 Hardware & IoT
+### Hardware & IoT
 <p align="left">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
@@ -43,29 +43,29 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📟 OCTO DEAUTHER</h4>
+      <h4> OCTO DEAUTHER</h4>
       <p>An offensive security tool that controls esp8266 deauther bots in one single C2 server.</p>
       <code>Java</code> <code>C</code> <code>IOT</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Raspberry Pi Car Robot</h4>
+      <h4> Raspberry Pi Car Robot</h4>
       <p>Camera-based robot powered by OpenCV for object tracking and movement automation.</p>
       <code>Python</code> <code>OpenCV</code> <code>IoT</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛡️ ISP Security Research</h4>
+      <h4> ISP Security Research</h4>
       <p>Documenting vulnerabilities within local network infrastructures (PLDT) to raise cybersecurity awareness.</p>
       <code>Burp Suite</code> <code>Networking</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🔗 n8n Automation Engine</h4>
+      <h4> n8n Automation Engine</h4>
       <p>Custom workflows connecting hardware sensors to webhooks and databases.</p>
       <code>n8n</code> <code>Docker</code> <code>API</code>
     </td>
@@ -74,7 +74,7 @@
 
 ---
 
-### 📈 GitHub Ecosystem
+###  GitHub Ecosystem
 
 
 
