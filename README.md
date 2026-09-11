@@ -48,9 +48,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🛒 Price-Checker POS</h4>
-      <p>A DIY point-of-sale system that lets users check item prices quickly using barcode scanners and local databases.</p>
-      <code>Python</code> <code>SQLite</code> <code>GUI</code>
+      <h4>OCTO DEAUTHER</h4>
+      <p>An offensive security tool that controls esp8266 deauther bots in one single C2 server.</p>
+      <code>Java</code> <code>C</code> <code>GUI</code>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 Raspberry Pi Car Robot</h4>
